@@ -2,6 +2,7 @@
 <h3 align="center">Welcome to my GitHub profile! I'm a final year student at IIIT Sri City, pursuing a degree in CSE. I'm passionate about software development and enjoy exploring various technologies to build innovative solutions.</h3>
 <br>
 <br>
+<hr>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thapanycs&label=Profile%20views&color=0e75b6&style=flat" alt="thapanycs" /> </p>
 
