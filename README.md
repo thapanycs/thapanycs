@@ -1,7 +1,7 @@
 <img align="center" alt="Coding" width="1100"  src="https://pbs.twimg.com/media/Eww0SEGWUAEy6eX.jpg:large">
 
 <h1 align="center" >Hey there!👋, I'm Sai Thapan</h1>
-<h3 >Welcome to my GitHub profile! I'm a final year student at IIIT Sri City, pursuing a degree in CSE. I'm passionate about software development and enjoy exploring various technologies to build innovative solutions.</h3>
+<h3 >Welcome to my GitHub profile! I'm a final year student at IIIT Sri City, pursuing a degree in CSE. I'm passionate about full stack development.</h3>
 <br>
 <br>
 <hr>
