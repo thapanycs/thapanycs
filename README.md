@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **my Portfolio site**
 
-- 🌱 I’m currently learning **Backend technologies**
+- 🌱 I’m currently learning **full stack development**
 
 - 📫 How to reach me **saithapan01@gmail.com**
 
